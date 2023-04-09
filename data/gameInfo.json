@@ -17,7 +17,8 @@
             "possible_role": "",
             "bluffed_roles": [
                 "test-role"
-            ]
+            ],
+            "day": 0
         }
     ],
     "general_info": "",
