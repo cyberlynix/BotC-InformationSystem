@@ -1,0 +1,82 @@
+{
+    "day": "0",
+    "role": "Select Role",
+    "notes": "",
+    "users": [
+        "Ari[ST]",
+        "Delta[ST]",
+        "PanPan[ST]",
+        "Levithehus",
+        "Spritzer",
+        "Lynix",
+        "Conicaw",
+        "VentusTheS",
+        "Foxworth",
+        "IssiSpaceG",
+        "Mallow",
+        "Juanvi",
+        "xenomorphV",
+        "AngryWolf"
+    ],
+    "day_log": [],
+    "bluff_log": [],
+    "vote_log": [],
+    "possible_roles": [
+        {
+            "user": "Ari[ST]",
+            "role": "Story Teller"
+        },
+        {
+            "user": "Delta[ST]",
+            "role": "Story Teller"
+        },
+        {
+            "user": "PanPan[ST]",
+            "role": "Story Teller"
+        },
+        {
+            "user": "Levithehus",
+            "role": ""
+        },
+        {
+            "user": "Spritzer",
+            "role": ""
+        },
+        {
+            "user": "Lynix",
+            "role": ""
+        },
+        {
+            "user": "Conicaw",
+            "role": ""
+        },
+        {
+            "user": "VentusTheS",
+            "role": ""
+        },
+        {
+            "user": "Foxworth",
+            "role": ""
+        },
+        {
+            "user": "IssiSpaceG",
+            "role": ""
+        },
+        {
+            "user": "Mallow",
+            "role": ""
+        },
+        {
+            "user": "Juanvi",
+            "role": ""
+        },
+        {
+            "user": "xenomorphV",
+            "role": ""
+        },
+        {
+            "user": "AngryWolf",
+            "role": ""
+        }
+    ]
+}
